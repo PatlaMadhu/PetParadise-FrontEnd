@@ -38,7 +38,7 @@ function Products(){
     </div>
     <div className="d-flex">
         <div className="card m-3">
-            <img src="https://cdn.shopify.com/s/files/1/0565/8021/0861/files/ADULT5x3KG_Bundle.png?v=1711094197"
+            <img src="https://m.media-amazon.com/images/I/41iEKvsf5+L._SY300_SX300_.jpg"
                 className="foodimage" />
             <h3 className="label">Henlo Baked Dry Food for Adult Dogs | 100% human grade ingredients</h3>
             <p className="price">₹9,699<br />
